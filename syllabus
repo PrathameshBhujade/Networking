@@ -1,0 +1,71 @@
+1. Networking Fundamentals (Beginner Level)
+Introduction to Networking
+What is a network? LAN, WAN, MAN
+Types of networks: Client-Server vs Peer-to-Peer
+Topologies (Star, Mesh, Hybrid)
+OSI & TCP/IP Models (7 layers explained with examples)
+IP Addressing
+IPv4, IPv6 basics
+Subnetting, Supernetting
+Private vs Public IP, APIPA, Loopback
+Network Devices
+Router, Switch, Hub, Access Point, Firewall, Load Balancer
+L2 vs L3 Switches
+Cabling & Wireless
+Ethernet standards (Cat5/6/7, fiber)
+Wi-Fi standards (802.11 a/b/g/n/ac/ax)
+2. Routing & Switching (Intermediate Level)
+Switching Concepts
+VLANs, Trunking, Inter-VLAN routing
+STP (Spanning Tree Protocol)
+EtherChannel (Link Aggregation)
+Routing Concepts
+Static vs Dynamic Routing
+Routing Protocols: RIP, OSPF, EIGRP, BGP
+Route Redistribution
+NAT & PAT
+Static, Dynamic NAT
+Port Address Translation (PAT)
+3. Network Services & Protocols
+DHCP (Dynamic Host Configuration Protocol)
+DNS (Domain Name System)
+ARP, ICMP, NTP
+SNMP (Monitoring Protocol)
+VoIP basics
+QoS (Quality of Service)
+4. Network Security
+Firewalls (Stateful, Stateless, NGFW)
+ACLs (Access Control Lists)
+VPNs (Site-to-Site, Remote Access, IPSec, SSL)
+IDS/IPS basics (Snort, Suricata, etc.)
+Security Best Practices:
+Zero Trust
+Network Segmentation
+Least Privilege
+5. Network Monitoring & Troubleshooting
+Tools:
+Wireshark (packet capture)
+Tcpdump
+Nmap (scanning)
+Ping, Traceroute
+Logs & Monitoring:
+Syslog
+NetFlow, sFlow
+Troubleshooting Approach (Layer-wise using OSI model)
+6. Wireless & Mobile Networking
+WLAN design (SSID, Channels, Roaming)
+Wireless security (WEP, WPA2, WPA3)
+Enterprise WLAN setup
+5G & LTE basics
+7. Data Center & Virtual Networking
+VLAN Trunking Protocol (VTP)
+Spine-Leaf architecture
+Virtualization Basics (VMware, Hyper-V)
+SDN (Software Defined Networking)
+Overlay Networks (VXLAN, GRE, MPLS)
+8. Cloud Networking
+AWS Networking (VPC, Subnets, Route Tables, Security Groups)
+Azure Virtual Network
+Google Cloud Networking basics
+Hybrid Networking (VPN, Direct Connect, ExpressRoute)
+SD-WAN Concepts
